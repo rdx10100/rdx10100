@@ -13,7 +13,7 @@
 
 <p align="center"><img src="https://user-images.githubusercontent.com/49580304/110318584-81067880-7fc2-11eb-8391-152d308e7f2b.gif" alt="Bt">
 
-<img width="94%" src="https://i.postimg.cc/FfPpH1fH/Picsart-22-12-11-20-55-00-392.jpg"/>
+
 </p>
 <p align="center">
 <img src="https://img.shields.io/badge/Author-Rahul Pipliwal-green?style=flat-square">
